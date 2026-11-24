@@ -20,7 +20,19 @@
   <img  width="99" height="99" alt="image" src="https://github.com/user-attachments/assets/d105a357-19f1-47d2-95db-d9881cb338fe" /> 
 </p>
 
-<!-- <a href="https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple">
-   <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple">
-  </a> -->
+
+
+<p align="center">
+  <a href="https://inthecrownest.itch.io/">
+   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
+ <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 
