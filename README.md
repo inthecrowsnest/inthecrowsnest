@@ -1,6 +1,26 @@
-![Save The Planet Stamp](https://github.com/user-attachments/assets/6ee57bbe-3a74-4238-9dd5-31aa6551a034) ![Madoka-and-Homura-Stamp](./Madoka_Homura_Stamp.gif) <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/6212b800-a35f-4db8-b55f-9df9b104336e" />
+<p align="center">
+<img width="99" height="56" src="./Madoka_Homura_Stamp.gif" /> 
+<img width="99" height="56" src="https://github.com/user-attachments/assets/6ee57bbe-3a74-4238-9dd5-31aa6551a034" /> 
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/6212b800-a35f-4db8-b55f-9df9b104336e" /> <img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/d3e5f8e0-0d90-4bf5-82c6-e8b8470620b4" />
+ <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/e83a5f70-4da4-4ac9-8faf-260dbcf0aa2f" /> <img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/4f2447f0-01e7-4ee5-b5bd-2f22cca878ce" /> <img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/ef168aeb-5e94-4385-a9bb-eadf68db632e" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c5cd2813-5dd3-4056-b82a-0dafbb3c34dc" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/8cbb8566-9c83-411c-8843-20a97f0303a6" /> <img width="105" height="60" alt="image" src="https://github.com/user-attachments/assets/e2566033-3161-4540-8882-9758ff514111" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/71274120-ce99-4937-b55d-adbc2565df28" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/b01bb14e-9b1d-47ad-ad42-6ef23f941b3d" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/bd88e024-09ab-49f5-b18e-ab03bbf40f4c" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/565165cd-f388-48f3-bb0a-d70aff78ca94" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/59ea88ba-3d66-4116-aa83-23ced602f8d3" />
+</p>
 
+<p align="center">
 <img src="https://i.imgur.com/hHi8SF1.png" alt="She/Her"> <img src="https://i.imgur.com/6QshkdT.png" alt="Any Pronoun"> 
-[![Free buttons!](https://i.ibb.co/whGzxPbd/free-buttons.png )](https://www1.flightrising.com/forums/cc/3078623)
+  <a href="https://www1.flightrising.com/forums/cc/3078623)"> 
+    <img src="https://i.ibb.co/whGzxPbd/free-buttons.png"
+  </a>
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple) 
+<p align="center">
+  <img  width="99" height="99" alt="image" src="https://github.com/user-attachments/assets/12ab7737-e5c2-4770-8815-9cfd14af5ddb" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  width="99" height="99" alt="image" src="https://github.com/user-attachments/assets/bda3faff-9669-45fe-846b-9a46e8fc7e45" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img  width="99" height="99" alt="image" src="https://github.com/user-attachments/assets/d105a357-19f1-47d2-95db-d9881cb338fe" /> 
+</p>
+
+<!-- <a href="https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple">
+   <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=inthecrowsnest&layout=donut&langs_count=4&theme=shades-of-purple">
+  </a> -->
+
